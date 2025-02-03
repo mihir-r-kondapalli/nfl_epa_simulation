@@ -1,0 +1,2501 @@
+{
+  "1-10": [
+    {
+      "value": -1106,
+      "probability": 0.0004,
+      "cdf": 0.0004
+    },
+    {
+      "value": -1101,
+      "probability": 0.0004,
+      "cdf": 0.0008
+    },
+    {
+      "value": -1100,
+      "probability": 0.002,
+      "cdf": 0.0027
+    },
+    {
+      "value": -1097,
+      "probability": 0.0008,
+      "cdf": 0.0035
+    },
+    {
+      "value": -1096,
+      "probability": 0.0012,
+      "cdf": 0.0047
+    },
+    {
+      "value": -1095,
+      "probability": 0.0004,
+      "cdf": 0.0051
+    },
+    {
+      "value": -10,
+      "probability": 0.0004,
+      "cdf": 0.0055
+    },
+    {
+      "value": -9,
+      "probability": 0.0004,
+      "cdf": 0.0059
+    },
+    {
+      "value": -7,
+      "probability": 0.0012,
+      "cdf": 0.007
+    },
+    {
+      "value": -6,
+      "probability": 0.0031,
+      "cdf": 0.0102
+    },
+    {
+      "value": -5,
+      "probability": 0.0023,
+      "cdf": 0.0125
+    },
+    {
+      "value": -4,
+      "probability": 0.0109,
+      "cdf": 0.0235
+    },
+    {
+      "value": -3,
+      "probability": 0.0117,
+      "cdf": 0.0352
+    },
+    {
+      "value": -2,
+      "probability": 0.0215,
+      "cdf": 0.0567
+    },
+    {
+      "value": -1,
+      "probability": 0.036,
+      "cdf": 0.0927
+    },
+    {
+      "value": 0,
+      "probability": 0.0797,
+      "cdf": 0.1724
+    },
+    {
+      "value": 1,
+      "probability": 0.1044,
+      "cdf": 0.2768
+    },
+    {
+      "value": 2,
+      "probability": 0.1212,
+      "cdf": 0.398
+    },
+    {
+      "value": 3,
+      "probability": 0.12,
+      "cdf": 0.518
+    },
+    {
+      "value": 4,
+      "probability": 0.1071,
+      "cdf": 0.6251
+    },
+    {
+      "value": 5,
+      "probability": 0.079,
+      "cdf": 0.7041
+    },
+    {
+      "value": 6,
+      "probability": 0.0614,
+      "cdf": 0.7654
+    },
+    {
+      "value": 7,
+      "probability": 0.0446,
+      "cdf": 0.81
+    },
+    {
+      "value": 8,
+      "probability": 0.0301,
+      "cdf": 0.8401
+    },
+    {
+      "value": 9,
+      "probability": 0.0446,
+      "cdf": 0.8847
+    },
+    {
+      "value": 10,
+      "probability": 0.0149,
+      "cdf": 0.8995
+    },
+    {
+      "value": 11,
+      "probability": 0.0176,
+      "cdf": 0.9171
+    },
+    {
+      "value": 12,
+      "probability": 0.0121,
+      "cdf": 0.9292
+    },
+    {
+      "value": 13,
+      "probability": 0.0098,
+      "cdf": 0.939
+    },
+    {
+      "value": 14,
+      "probability": 0.009,
+      "cdf": 0.948
+    },
+    {
+      "value": 15,
+      "probability": 0.0055,
+      "cdf": 0.9535
+    },
+    {
+      "value": 16,
+      "probability": 0.0059,
+      "cdf": 0.9593
+    },
+    {
+      "value": 17,
+      "probability": 0.0031,
+      "cdf": 0.9625
+    },
+    {
+      "value": 18,
+      "probability": 0.0016,
+      "cdf": 0.964
+    },
+    {
+      "value": 19,
+      "probability": 0.0051,
+      "cdf": 0.9691
+    },
+    {
+      "value": 20,
+      "probability": 0.0027,
+      "cdf": 0.9719
+    },
+    {
+      "value": 21,
+      "probability": 0.0023,
+      "cdf": 0.9742
+    },
+    {
+      "value": 22,
+      "probability": 0.0031,
+      "cdf": 0.9773
+    },
+    {
+      "value": 23,
+      "probability": 0.002,
+      "cdf": 0.9793
+    },
+    {
+      "value": 24,
+      "probability": 0.002,
+      "cdf": 0.9812
+    },
+    {
+      "value": 25,
+      "probability": 0.0012,
+      "cdf": 0.9824
+    },
+    {
+      "value": 26,
+      "probability": 0.0012,
+      "cdf": 0.9836
+    },
+    {
+      "value": 28,
+      "probability": 0.0004,
+      "cdf": 0.984
+    },
+    {
+      "value": 29,
+      "probability": 0.0004,
+      "cdf": 0.9844
+    },
+    {
+      "value": 30,
+      "probability": 0.0031,
+      "cdf": 0.9875
+    },
+    {
+      "value": 31,
+      "probability": 0.0004,
+      "cdf": 0.9879
+    },
+    {
+      "value": 32,
+      "probability": 0.0004,
+      "cdf": 0.9883
+    },
+    {
+      "value": 34,
+      "probability": 0.0004,
+      "cdf": 0.9887
+    },
+    {
+      "value": 35,
+      "probability": 0.0008,
+      "cdf": 0.9894
+    },
+    {
+      "value": 36,
+      "probability": 0.0004,
+      "cdf": 0.9898
+    },
+    {
+      "value": 37,
+      "probability": 0.0004,
+      "cdf": 0.9902
+    },
+    {
+      "value": 43,
+      "probability": 0.0027,
+      "cdf": 0.993
+    },
+    {
+      "value": 44,
+      "probability": 0.0027,
+      "cdf": 0.9957
+    },
+    {
+      "value": 45,
+      "probability": 0.0008,
+      "cdf": 0.9965
+    },
+    {
+      "value": 46,
+      "probability": 0.0012,
+      "cdf": 0.9977
+    },
+    {
+      "value": 47,
+      "probability": 0.0012,
+      "cdf": 0.9988
+    },
+    {
+      "value": 48,
+      "probability": 0.0012,
+      "cdf": 1
+    }
+  ],
+  "1-15": [
+    {
+      "value": -2,
+      "probability": 0.037,
+      "cdf": 0.037
+    },
+    {
+      "value": -1,
+      "probability": 0.1111,
+      "cdf": 0.1481
+    },
+    {
+      "value": 1,
+      "probability": 0.1481,
+      "cdf": 0.2963
+    },
+    {
+      "value": 2,
+      "probability": 0.1111,
+      "cdf": 0.4074
+    },
+    {
+      "value": 3,
+      "probability": 0.0741,
+      "cdf": 0.4815
+    },
+    {
+      "value": 4,
+      "probability": 0.1481,
+      "cdf": 0.6296
+    },
+    {
+      "value": 5,
+      "probability": 0.0741,
+      "cdf": 0.7037
+    },
+    {
+      "value": 6,
+      "probability": 0.0741,
+      "cdf": 0.7778
+    },
+    {
+      "value": 7,
+      "probability": 0.037,
+      "cdf": 0.8148
+    },
+    {
+      "value": 8,
+      "probability": 0.037,
+      "cdf": 0.8519
+    },
+    {
+      "value": 12,
+      "probability": 0.037,
+      "cdf": 0.8889
+    },
+    {
+      "value": 13,
+      "probability": 0.037,
+      "cdf": 0.9259
+    },
+    {
+      "value": 14,
+      "probability": 0.0741,
+      "cdf": 1
+    }
+  ],
+  "2-1": [
+    {
+      "value": -1093,
+      "probability": 0.0072,
+      "cdf": 0.0072
+    },
+    {
+      "value": -3,
+      "probability": 0.029,
+      "cdf": 0.0362
+    },
+    {
+      "value": -1,
+      "probability": 0.029,
+      "cdf": 0.0652
+    },
+    {
+      "value": 0,
+      "probability": 0.1449,
+      "cdf": 0.2101
+    },
+    {
+      "value": 1,
+      "probability": 0.0217,
+      "cdf": 0.2319
+    },
+    {
+      "value": 2,
+      "probability": 0.1957,
+      "cdf": 0.4275
+    },
+    {
+      "value": 3,
+      "probability": 0.1449,
+      "cdf": 0.5725
+    },
+    {
+      "value": 4,
+      "probability": 0.0797,
+      "cdf": 0.6522
+    },
+    {
+      "value": 5,
+      "probability": 0.1014,
+      "cdf": 0.7536
+    },
+    {
+      "value": 6,
+      "probability": 0.0435,
+      "cdf": 0.7971
+    },
+    {
+      "value": 7,
+      "probability": 0.0217,
+      "cdf": 0.8188
+    },
+    {
+      "value": 8,
+      "probability": 0.029,
+      "cdf": 0.8478
+    },
+    {
+      "value": 9,
+      "probability": 0.0362,
+      "cdf": 0.8841
+    },
+    {
+      "value": 10,
+      "probability": 0.0362,
+      "cdf": 0.9203
+    },
+    {
+      "value": 11,
+      "probability": 0.029,
+      "cdf": 0.9493
+    },
+    {
+      "value": 13,
+      "probability": 0.0145,
+      "cdf": 0.9638
+    },
+    {
+      "value": 15,
+      "probability": 0.0145,
+      "cdf": 0.9783
+    },
+    {
+      "value": 17,
+      "probability": 0.0072,
+      "cdf": 0.9855
+    },
+    {
+      "value": 28,
+      "probability": 0.0072,
+      "cdf": 0.9928
+    },
+    {
+      "value": 35,
+      "probability": 0.0072,
+      "cdf": 1
+    }
+  ],
+  "2-2": [
+    {
+      "value": -1105,
+      "probability": 0.008,
+      "cdf": 0.008
+    },
+    {
+      "value": -6,
+      "probability": 0.008,
+      "cdf": 0.016
+    },
+    {
+      "value": -5,
+      "probability": 0.008,
+      "cdf": 0.024
+    },
+    {
+      "value": -4,
+      "probability": 0.04,
+      "cdf": 0.064
+    },
+    {
+      "value": -2,
+      "probability": 0.032,
+      "cdf": 0.096
+    },
+    {
+      "value": -1,
+      "probability": 0.048,
+      "cdf": 0.144
+    },
+    {
+      "value": 0,
+      "probability": 0.056,
+      "cdf": 0.2
+    },
+    {
+      "value": 1,
+      "probability": 0.168,
+      "cdf": 0.368
+    },
+    {
+      "value": 2,
+      "probability": 0.048,
+      "cdf": 0.416
+    },
+    {
+      "value": 3,
+      "probability": 0.144,
+      "cdf": 0.56
+    },
+    {
+      "value": 4,
+      "probability": 0.104,
+      "cdf": 0.664
+    },
+    {
+      "value": 5,
+      "probability": 0.096,
+      "cdf": 0.76
+    },
+    {
+      "value": 6,
+      "probability": 0.056,
+      "cdf": 0.816
+    },
+    {
+      "value": 7,
+      "probability": 0.032,
+      "cdf": 0.848
+    },
+    {
+      "value": 8,
+      "probability": 0.008,
+      "cdf": 0.856
+    },
+    {
+      "value": 9,
+      "probability": 0.024,
+      "cdf": 0.88
+    },
+    {
+      "value": 10,
+      "probability": 0.008,
+      "cdf": 0.888
+    },
+    {
+      "value": 11,
+      "probability": 0.016,
+      "cdf": 0.904
+    },
+    {
+      "value": 13,
+      "probability": 0.024,
+      "cdf": 0.928
+    },
+    {
+      "value": 15,
+      "probability": 0.016,
+      "cdf": 0.944
+    },
+    {
+      "value": 17,
+      "probability": 0.008,
+      "cdf": 0.952
+    },
+    {
+      "value": 19,
+      "probability": 0.008,
+      "cdf": 0.96
+    },
+    {
+      "value": 21,
+      "probability": 0.008,
+      "cdf": 0.968
+    },
+    {
+      "value": 23,
+      "probability": 0.008,
+      "cdf": 0.976
+    },
+    {
+      "value": 25,
+      "probability": 0.008,
+      "cdf": 0.984
+    },
+    {
+      "value": 27,
+      "probability": 0.008,
+      "cdf": 0.992
+    },
+    {
+      "value": 48,
+      "probability": 0.008,
+      "cdf": 1
+    }
+  ],
+  "2-3": [
+    {
+      "value": -1100,
+      "probability": 0.0075,
+      "cdf": 0.0075
+    },
+    {
+      "value": -3,
+      "probability": 0.0224,
+      "cdf": 0.0299
+    },
+    {
+      "value": -2,
+      "probability": 0.0075,
+      "cdf": 0.0373
+    },
+    {
+      "value": -1,
+      "probability": 0.0149,
+      "cdf": 0.0522
+    },
+    {
+      "value": 0,
+      "probability": 0.0672,
+      "cdf": 0.1194
+    },
+    {
+      "value": 1,
+      "probability": 0.097,
+      "cdf": 0.2164
+    },
+    {
+      "value": 2,
+      "probability": 0.209,
+      "cdf": 0.4254
+    },
+    {
+      "value": 3,
+      "probability": 0.0373,
+      "cdf": 0.4627
+    },
+    {
+      "value": 4,
+      "probability": 0.1418,
+      "cdf": 0.6045
+    },
+    {
+      "value": 5,
+      "probability": 0.1343,
+      "cdf": 0.7388
+    },
+    {
+      "value": 6,
+      "probability": 0.0299,
+      "cdf": 0.7687
+    },
+    {
+      "value": 7,
+      "probability": 0.0746,
+      "cdf": 0.8433
+    },
+    {
+      "value": 8,
+      "probability": 0.0373,
+      "cdf": 0.8806
+    },
+    {
+      "value": 9,
+      "probability": 0.0149,
+      "cdf": 0.8955
+    },
+    {
+      "value": 10,
+      "probability": 0.0149,
+      "cdf": 0.9104
+    },
+    {
+      "value": 11,
+      "probability": 0.0149,
+      "cdf": 0.9254
+    },
+    {
+      "value": 12,
+      "probability": 0.0149,
+      "cdf": 0.9403
+    },
+    {
+      "value": 13,
+      "probability": 0.0149,
+      "cdf": 0.9552
+    },
+    {
+      "value": 14,
+      "probability": 0.0075,
+      "cdf": 0.9627
+    },
+    {
+      "value": 15,
+      "probability": 0.0075,
+      "cdf": 0.9701
+    },
+    {
+      "value": 18,
+      "probability": 0.0075,
+      "cdf": 0.9776
+    },
+    {
+      "value": 21,
+      "probability": 0.0075,
+      "cdf": 0.9851
+    },
+    {
+      "value": 34,
+      "probability": 0.0149,
+      "cdf": 1
+    }
+  ],
+  "2-4": [
+    {
+      "value": -7,
+      "probability": 0.0137,
+      "cdf": 0.0137
+    },
+    {
+      "value": -5,
+      "probability": 0.0068,
+      "cdf": 0.0205
+    },
+    {
+      "value": -4,
+      "probability": 0.0137,
+      "cdf": 0.0342
+    },
+    {
+      "value": -3,
+      "probability": 0.0274,
+      "cdf": 0.0616
+    },
+    {
+      "value": -2,
+      "probability": 0.0068,
+      "cdf": 0.0685
+    },
+    {
+      "value": -1,
+      "probability": 0.0616,
+      "cdf": 0.1301
+    },
+    {
+      "value": 0,
+      "probability": 0.0685,
+      "cdf": 0.1986
+    },
+    {
+      "value": 1,
+      "probability": 0.0685,
+      "cdf": 0.2671
+    },
+    {
+      "value": 2,
+      "probability": 0.1301,
+      "cdf": 0.3973
+    },
+    {
+      "value": 3,
+      "probability": 0.1507,
+      "cdf": 0.5479
+    },
+    {
+      "value": 4,
+      "probability": 0.0342,
+      "cdf": 0.5822
+    },
+    {
+      "value": 5,
+      "probability": 0.0822,
+      "cdf": 0.6644
+    },
+    {
+      "value": 6,
+      "probability": 0.0822,
+      "cdf": 0.7466
+    },
+    {
+      "value": 7,
+      "probability": 0.0548,
+      "cdf": 0.8014
+    },
+    {
+      "value": 8,
+      "probability": 0.0479,
+      "cdf": 0.8493
+    },
+    {
+      "value": 9,
+      "probability": 0.0137,
+      "cdf": 0.863
+    },
+    {
+      "value": 10,
+      "probability": 0.0068,
+      "cdf": 0.8699
+    },
+    {
+      "value": 11,
+      "probability": 0.0205,
+      "cdf": 0.8904
+    },
+    {
+      "value": 12,
+      "probability": 0.0137,
+      "cdf": 0.9041
+    },
+    {
+      "value": 13,
+      "probability": 0.0137,
+      "cdf": 0.9178
+    },
+    {
+      "value": 14,
+      "probability": 0.0068,
+      "cdf": 0.9247
+    },
+    {
+      "value": 15,
+      "probability": 0.0274,
+      "cdf": 0.9521
+    },
+    {
+      "value": 17,
+      "probability": 0.0068,
+      "cdf": 0.9589
+    },
+    {
+      "value": 20,
+      "probability": 0.0068,
+      "cdf": 0.9658
+    },
+    {
+      "value": 23,
+      "probability": 0.0068,
+      "cdf": 0.9726
+    },
+    {
+      "value": 31,
+      "probability": 0.0068,
+      "cdf": 0.9795
+    },
+    {
+      "value": 34,
+      "probability": 0.0068,
+      "cdf": 0.9863
+    },
+    {
+      "value": 43,
+      "probability": 0.0068,
+      "cdf": 0.9932
+    },
+    {
+      "value": 46,
+      "probability": 0.0068,
+      "cdf": 1
+    }
+  ],
+  "2-5": [
+    {
+      "value": -5,
+      "probability": 0.0064,
+      "cdf": 0.0064
+    },
+    {
+      "value": -2,
+      "probability": 0.0446,
+      "cdf": 0.051
+    },
+    {
+      "value": -1,
+      "probability": 0.051,
+      "cdf": 0.1019
+    },
+    {
+      "value": 0,
+      "probability": 0.1083,
+      "cdf": 0.2102
+    },
+    {
+      "value": 1,
+      "probability": 0.121,
+      "cdf": 0.3312
+    },
+    {
+      "value": 2,
+      "probability": 0.1083,
+      "cdf": 0.4395
+    },
+    {
+      "value": 3,
+      "probability": 0.0892,
+      "cdf": 0.5287
+    },
+    {
+      "value": 4,
+      "probability": 0.121,
+      "cdf": 0.6497
+    },
+    {
+      "value": 5,
+      "probability": 0.051,
+      "cdf": 0.7006
+    },
+    {
+      "value": 6,
+      "probability": 0.051,
+      "cdf": 0.7516
+    },
+    {
+      "value": 7,
+      "probability": 0.051,
+      "cdf": 0.8025
+    },
+    {
+      "value": 8,
+      "probability": 0.0318,
+      "cdf": 0.8344
+    },
+    {
+      "value": 9,
+      "probability": 0.0191,
+      "cdf": 0.8535
+    },
+    {
+      "value": 10,
+      "probability": 0.0191,
+      "cdf": 0.8726
+    },
+    {
+      "value": 11,
+      "probability": 0.0191,
+      "cdf": 0.8917
+    },
+    {
+      "value": 12,
+      "probability": 0.0318,
+      "cdf": 0.9236
+    },
+    {
+      "value": 13,
+      "probability": 0.0127,
+      "cdf": 0.9363
+    },
+    {
+      "value": 14,
+      "probability": 0.0127,
+      "cdf": 0.949
+    },
+    {
+      "value": 15,
+      "probability": 0.0064,
+      "cdf": 0.9554
+    },
+    {
+      "value": 17,
+      "probability": 0.0064,
+      "cdf": 0.9618
+    },
+    {
+      "value": 18,
+      "probability": 0.0064,
+      "cdf": 0.9682
+    },
+    {
+      "value": 19,
+      "probability": 0.0064,
+      "cdf": 0.9745
+    },
+    {
+      "value": 20,
+      "probability": 0.0064,
+      "cdf": 0.9809
+    },
+    {
+      "value": 22,
+      "probability": 0.0064,
+      "cdf": 0.9873
+    },
+    {
+      "value": 27,
+      "probability": 0.0064,
+      "cdf": 0.9936
+    },
+    {
+      "value": 46,
+      "probability": 0.0064,
+      "cdf": 1
+    }
+  ],
+  "2-6": [
+    {
+      "value": -1101,
+      "probability": 0.006,
+      "cdf": 0.006
+    },
+    {
+      "value": -6,
+      "probability": 0.006,
+      "cdf": 0.012
+    },
+    {
+      "value": -4,
+      "probability": 0.0181,
+      "cdf": 0.0301
+    },
+    {
+      "value": -3,
+      "probability": 0.0422,
+      "cdf": 0.0723
+    },
+    {
+      "value": -2,
+      "probability": 0.0301,
+      "cdf": 0.1024
+    },
+    {
+      "value": -1,
+      "probability": 0.0482,
+      "cdf": 0.1506
+    },
+    {
+      "value": 0,
+      "probability": 0.0904,
+      "cdf": 0.241
+    },
+    {
+      "value": 1,
+      "probability": 0.1084,
+      "cdf": 0.3494
+    },
+    {
+      "value": 2,
+      "probability": 0.0964,
+      "cdf": 0.4458
+    },
+    {
+      "value": 3,
+      "probability": 0.1024,
+      "cdf": 0.5482
+    },
+    {
+      "value": 4,
+      "probability": 0.1506,
+      "cdf": 0.6988
+    },
+    {
+      "value": 5,
+      "probability": 0.0904,
+      "cdf": 0.7892
+    },
+    {
+      "value": 6,
+      "probability": 0.012,
+      "cdf": 0.8012
+    },
+    {
+      "value": 7,
+      "probability": 0.0361,
+      "cdf": 0.8373
+    },
+    {
+      "value": 8,
+      "probability": 0.0181,
+      "cdf": 0.8554
+    },
+    {
+      "value": 9,
+      "probability": 0.0241,
+      "cdf": 0.8795
+    },
+    {
+      "value": 10,
+      "probability": 0.0181,
+      "cdf": 0.8976
+    },
+    {
+      "value": 11,
+      "probability": 0.012,
+      "cdf": 0.9096
+    },
+    {
+      "value": 12,
+      "probability": 0.0241,
+      "cdf": 0.9337
+    },
+    {
+      "value": 13,
+      "probability": 0.0301,
+      "cdf": 0.9639
+    },
+    {
+      "value": 18,
+      "probability": 0.006,
+      "cdf": 0.9699
+    },
+    {
+      "value": 20,
+      "probability": 0.006,
+      "cdf": 0.9759
+    },
+    {
+      "value": 22,
+      "probability": 0.006,
+      "cdf": 0.9819
+    },
+    {
+      "value": 26,
+      "probability": 0.012,
+      "cdf": 0.994
+    },
+    {
+      "value": 48,
+      "probability": 0.006,
+      "cdf": 1
+    }
+  ],
+  "2-7": [
+    {
+      "value": -1103,
+      "probability": 0.0159,
+      "cdf": 0.0159
+    },
+    {
+      "value": -5,
+      "probability": 0.0079,
+      "cdf": 0.0238
+    },
+    {
+      "value": -4,
+      "probability": 0.0238,
+      "cdf": 0.0476
+    },
+    {
+      "value": -3,
+      "probability": 0.0159,
+      "cdf": 0.0635
+    },
+    {
+      "value": -2,
+      "probability": 0.0079,
+      "cdf": 0.0714
+    },
+    {
+      "value": -1,
+      "probability": 0.0238,
+      "cdf": 0.0952
+    },
+    {
+      "value": 0,
+      "probability": 0.0952,
+      "cdf": 0.1905
+    },
+    {
+      "value": 1,
+      "probability": 0.0794,
+      "cdf": 0.2698
+    },
+    {
+      "value": 2,
+      "probability": 0.1032,
+      "cdf": 0.373
+    },
+    {
+      "value": 3,
+      "probability": 0.1587,
+      "cdf": 0.5317
+    },
+    {
+      "value": 4,
+      "probability": 0.0794,
+      "cdf": 0.6111
+    },
+    {
+      "value": 5,
+      "probability": 0.0635,
+      "cdf": 0.6746
+    },
+    {
+      "value": 6,
+      "probability": 0.0873,
+      "cdf": 0.7619
+    },
+    {
+      "value": 7,
+      "probability": 0.0079,
+      "cdf": 0.7698
+    },
+    {
+      "value": 8,
+      "probability": 0.0476,
+      "cdf": 0.8175
+    },
+    {
+      "value": 9,
+      "probability": 0.0317,
+      "cdf": 0.8492
+    },
+    {
+      "value": 10,
+      "probability": 0.0238,
+      "cdf": 0.873
+    },
+    {
+      "value": 11,
+      "probability": 0.0159,
+      "cdf": 0.8889
+    },
+    {
+      "value": 12,
+      "probability": 0.0079,
+      "cdf": 0.8968
+    },
+    {
+      "value": 13,
+      "probability": 0.0159,
+      "cdf": 0.9127
+    },
+    {
+      "value": 14,
+      "probability": 0.0317,
+      "cdf": 0.9444
+    },
+    {
+      "value": 16,
+      "probability": 0.0079,
+      "cdf": 0.9524
+    },
+    {
+      "value": 17,
+      "probability": 0.0079,
+      "cdf": 0.9603
+    },
+    {
+      "value": 19,
+      "probability": 0.0079,
+      "cdf": 0.9683
+    },
+    {
+      "value": 21,
+      "probability": 0.0079,
+      "cdf": 0.9762
+    },
+    {
+      "value": 22,
+      "probability": 0.0079,
+      "cdf": 0.9841
+    },
+    {
+      "value": 25,
+      "probability": 0.0079,
+      "cdf": 0.9921
+    },
+    {
+      "value": 43,
+      "probability": 0.0079,
+      "cdf": 1
+    }
+  ],
+  "2-8": [
+    {
+      "value": -6,
+      "probability": 0.0094,
+      "cdf": 0.0094
+    },
+    {
+      "value": -3,
+      "probability": 0.0377,
+      "cdf": 0.0472
+    },
+    {
+      "value": -2,
+      "probability": 0.0283,
+      "cdf": 0.0755
+    },
+    {
+      "value": -1,
+      "probability": 0.0094,
+      "cdf": 0.0849
+    },
+    {
+      "value": 0,
+      "probability": 0.0755,
+      "cdf": 0.1604
+    },
+    {
+      "value": 1,
+      "probability": 0.0849,
+      "cdf": 0.2453
+    },
+    {
+      "value": 2,
+      "probability": 0.1226,
+      "cdf": 0.3679
+    },
+    {
+      "value": 3,
+      "probability": 0.1415,
+      "cdf": 0.5094
+    },
+    {
+      "value": 4,
+      "probability": 0.1132,
+      "cdf": 0.6226
+    },
+    {
+      "value": 5,
+      "probability": 0.0943,
+      "cdf": 0.717
+    },
+    {
+      "value": 6,
+      "probability": 0.0189,
+      "cdf": 0.7358
+    },
+    {
+      "value": 7,
+      "probability": 0.066,
+      "cdf": 0.8019
+    },
+    {
+      "value": 9,
+      "probability": 0.0377,
+      "cdf": 0.8396
+    },
+    {
+      "value": 10,
+      "probability": 0.0377,
+      "cdf": 0.8774
+    },
+    {
+      "value": 12,
+      "probability": 0.0189,
+      "cdf": 0.8962
+    },
+    {
+      "value": 13,
+      "probability": 0.0377,
+      "cdf": 0.934
+    },
+    {
+      "value": 14,
+      "probability": 0.0094,
+      "cdf": 0.9434
+    },
+    {
+      "value": 15,
+      "probability": 0.0094,
+      "cdf": 0.9528
+    },
+    {
+      "value": 16,
+      "probability": 0.0094,
+      "cdf": 0.9623
+    },
+    {
+      "value": 24,
+      "probability": 0.0094,
+      "cdf": 0.9717
+    },
+    {
+      "value": 26,
+      "probability": 0.0094,
+      "cdf": 0.9811
+    },
+    {
+      "value": 33,
+      "probability": 0.0094,
+      "cdf": 0.9906
+    },
+    {
+      "value": 45,
+      "probability": 0.0094,
+      "cdf": 1
+    }
+  ],
+  "2-9": [
+    {
+      "value": -5,
+      "probability": 0.023,
+      "cdf": 0.023
+    },
+    {
+      "value": -3,
+      "probability": 0.046,
+      "cdf": 0.069
+    },
+    {
+      "value": -2,
+      "probability": 0.023,
+      "cdf": 0.092
+    },
+    {
+      "value": -1,
+      "probability": 0.0345,
+      "cdf": 0.1264
+    },
+    {
+      "value": 0,
+      "probability": 0.069,
+      "cdf": 0.1954
+    },
+    {
+      "value": 1,
+      "probability": 0.0575,
+      "cdf": 0.2529
+    },
+    {
+      "value": 2,
+      "probability": 0.069,
+      "cdf": 0.3218
+    },
+    {
+      "value": 3,
+      "probability": 0.1264,
+      "cdf": 0.4483
+    },
+    {
+      "value": 4,
+      "probability": 0.1724,
+      "cdf": 0.6207
+    },
+    {
+      "value": 5,
+      "probability": 0.1379,
+      "cdf": 0.7586
+    },
+    {
+      "value": 6,
+      "probability": 0.046,
+      "cdf": 0.8046
+    },
+    {
+      "value": 7,
+      "probability": 0.0345,
+      "cdf": 0.8391
+    },
+    {
+      "value": 8,
+      "probability": 0.0805,
+      "cdf": 0.9195
+    },
+    {
+      "value": 10,
+      "probability": 0.0575,
+      "cdf": 0.977
+    },
+    {
+      "value": 12,
+      "probability": 0.0115,
+      "cdf": 0.9885
+    },
+    {
+      "value": 19,
+      "probability": 0.0115,
+      "cdf": 1
+    }
+  ],
+  "2-10": [
+    {
+      "value": -1100,
+      "probability": 0.0032,
+      "cdf": 0.0032
+    },
+    {
+      "value": -1097,
+      "probability": 0.0065,
+      "cdf": 0.0097
+    },
+    {
+      "value": -8,
+      "probability": 0.0032,
+      "cdf": 0.0129
+    },
+    {
+      "value": -5,
+      "probability": 0.0032,
+      "cdf": 0.0161
+    },
+    {
+      "value": -4,
+      "probability": 0.0129,
+      "cdf": 0.029
+    },
+    {
+      "value": -3,
+      "probability": 0.0194,
+      "cdf": 0.0484
+    },
+    {
+      "value": -2,
+      "probability": 0.0323,
+      "cdf": 0.0806
+    },
+    {
+      "value": -1,
+      "probability": 0.0419,
+      "cdf": 0.1226
+    },
+    {
+      "value": 0,
+      "probability": 0.071,
+      "cdf": 0.1935
+    },
+    {
+      "value": 1,
+      "probability": 0.0645,
+      "cdf": 0.2581
+    },
+    {
+      "value": 2,
+      "probability": 0.129,
+      "cdf": 0.3871
+    },
+    {
+      "value": 3,
+      "probability": 0.1129,
+      "cdf": 0.5
+    },
+    {
+      "value": 4,
+      "probability": 0.1065,
+      "cdf": 0.6065
+    },
+    {
+      "value": 5,
+      "probability": 0.0742,
+      "cdf": 0.6806
+    },
+    {
+      "value": 6,
+      "probability": 0.0484,
+      "cdf": 0.729
+    },
+    {
+      "value": 7,
+      "probability": 0.0645,
+      "cdf": 0.7935
+    },
+    {
+      "value": 8,
+      "probability": 0.0581,
+      "cdf": 0.8516
+    },
+    {
+      "value": 9,
+      "probability": 0.0548,
+      "cdf": 0.9065
+    },
+    {
+      "value": 10,
+      "probability": 0.0097,
+      "cdf": 0.9161
+    },
+    {
+      "value": 11,
+      "probability": 0.0161,
+      "cdf": 0.9323
+    },
+    {
+      "value": 12,
+      "probability": 0.0129,
+      "cdf": 0.9452
+    },
+    {
+      "value": 13,
+      "probability": 0.0097,
+      "cdf": 0.9548
+    },
+    {
+      "value": 14,
+      "probability": 0.0032,
+      "cdf": 0.9581
+    },
+    {
+      "value": 16,
+      "probability": 0.0065,
+      "cdf": 0.9645
+    },
+    {
+      "value": 17,
+      "probability": 0.0065,
+      "cdf": 0.971
+    },
+    {
+      "value": 20,
+      "probability": 0.0065,
+      "cdf": 0.9774
+    },
+    {
+      "value": 22,
+      "probability": 0.0032,
+      "cdf": 0.9806
+    },
+    {
+      "value": 26,
+      "probability": 0.0032,
+      "cdf": 0.9839
+    },
+    {
+      "value": 28,
+      "probability": 0.0032,
+      "cdf": 0.9871
+    },
+    {
+      "value": 33,
+      "probability": 0.0032,
+      "cdf": 0.9903
+    },
+    {
+      "value": 43,
+      "probability": 0.0032,
+      "cdf": 0.9935
+    },
+    {
+      "value": 44,
+      "probability": 0.0032,
+      "cdf": 0.9968
+    },
+    {
+      "value": 48,
+      "probability": 0.0032,
+      "cdf": 1
+    }
+  ],
+  "2-11": [
+    {
+      "value": -5,
+      "probability": 0.04,
+      "cdf": 0.04
+    },
+    {
+      "value": -4,
+      "probability": 0.04,
+      "cdf": 0.08
+    },
+    {
+      "value": 0,
+      "probability": 0.04,
+      "cdf": 0.12
+    },
+    {
+      "value": 1,
+      "probability": 0.04,
+      "cdf": 0.16
+    },
+    {
+      "value": 2,
+      "probability": 0.16,
+      "cdf": 0.32
+    },
+    {
+      "value": 3,
+      "probability": 0.2,
+      "cdf": 0.52
+    },
+    {
+      "value": 6,
+      "probability": 0.08,
+      "cdf": 0.6
+    },
+    {
+      "value": 8,
+      "probability": 0.04,
+      "cdf": 0.64
+    },
+    {
+      "value": 9,
+      "probability": 0.12,
+      "cdf": 0.76
+    },
+    {
+      "value": 10,
+      "probability": 0.08,
+      "cdf": 0.84
+    },
+    {
+      "value": 12,
+      "probability": 0.04,
+      "cdf": 0.88
+    },
+    {
+      "value": 18,
+      "probability": 0.04,
+      "cdf": 0.92
+    },
+    {
+      "value": 20,
+      "probability": 0.04,
+      "cdf": 0.96
+    },
+    {
+      "value": 21,
+      "probability": 0.04,
+      "cdf": 1
+    }
+  ],
+  "3-1": [
+    {
+      "value": -1096,
+      "probability": 0.0042,
+      "cdf": 0.0042
+    },
+    {
+      "value": -1086,
+      "probability": 0.0042,
+      "cdf": 0.0083
+    },
+    {
+      "value": -7,
+      "probability": 0.0042,
+      "cdf": 0.0125
+    },
+    {
+      "value": -4,
+      "probability": 0.0042,
+      "cdf": 0.0167
+    },
+    {
+      "value": -3,
+      "probability": 0.0125,
+      "cdf": 0.0292
+    },
+    {
+      "value": -2,
+      "probability": 0.0125,
+      "cdf": 0.0417
+    },
+    {
+      "value": -1,
+      "probability": 0.0208,
+      "cdf": 0.0625
+    },
+    {
+      "value": 0,
+      "probability": 0.1583,
+      "cdf": 0.2208
+    },
+    {
+      "value": 1,
+      "probability": 0.0958,
+      "cdf": 0.3167
+    },
+    {
+      "value": 2,
+      "probability": 0.2958,
+      "cdf": 0.6125
+    },
+    {
+      "value": 3,
+      "probability": 0.1333,
+      "cdf": 0.7458
+    },
+    {
+      "value": 4,
+      "probability": 0.075,
+      "cdf": 0.8208
+    },
+    {
+      "value": 5,
+      "probability": 0.0333,
+      "cdf": 0.8542
+    },
+    {
+      "value": 6,
+      "probability": 0.0208,
+      "cdf": 0.875
+    },
+    {
+      "value": 7,
+      "probability": 0.0125,
+      "cdf": 0.8875
+    },
+    {
+      "value": 8,
+      "probability": 0.0167,
+      "cdf": 0.9042
+    },
+    {
+      "value": 10,
+      "probability": 0.0125,
+      "cdf": 0.9167
+    },
+    {
+      "value": 11,
+      "probability": 0.0125,
+      "cdf": 0.9292
+    },
+    {
+      "value": 12,
+      "probability": 0.0083,
+      "cdf": 0.9375
+    },
+    {
+      "value": 13,
+      "probability": 0.0125,
+      "cdf": 0.95
+    },
+    {
+      "value": 15,
+      "probability": 0.0083,
+      "cdf": 0.9583
+    },
+    {
+      "value": 16,
+      "probability": 0.0125,
+      "cdf": 0.9708
+    },
+    {
+      "value": 17,
+      "probability": 0.0083,
+      "cdf": 0.9792
+    },
+    {
+      "value": 21,
+      "probability": 0.0042,
+      "cdf": 0.9833
+    },
+    {
+      "value": 22,
+      "probability": 0.0042,
+      "cdf": 0.9875
+    },
+    {
+      "value": 23,
+      "probability": 0.0042,
+      "cdf": 0.9917
+    },
+    {
+      "value": 27,
+      "probability": 0.0042,
+      "cdf": 0.9958
+    },
+    {
+      "value": 32,
+      "probability": 0.0042,
+      "cdf": 1
+    }
+  ],
+  "3-2": [
+    {
+      "value": -1104,
+      "probability": 0.0106,
+      "cdf": 0.0106
+    },
+    {
+      "value": -1101,
+      "probability": 0.0106,
+      "cdf": 0.0213
+    },
+    {
+      "value": -1100,
+      "probability": 0.0106,
+      "cdf": 0.0319
+    },
+    {
+      "value": -2,
+      "probability": 0.0106,
+      "cdf": 0.0426
+    },
+    {
+      "value": -1,
+      "probability": 0.0319,
+      "cdf": 0.0745
+    },
+    {
+      "value": 0,
+      "probability": 0.1064,
+      "cdf": 0.1809
+    },
+    {
+      "value": 1,
+      "probability": 0.234,
+      "cdf": 0.4149
+    },
+    {
+      "value": 2,
+      "probability": 0.0426,
+      "cdf": 0.4574
+    },
+    {
+      "value": 3,
+      "probability": 0.0957,
+      "cdf": 0.5532
+    },
+    {
+      "value": 4,
+      "probability": 0.117,
+      "cdf": 0.6702
+    },
+    {
+      "value": 5,
+      "probability": 0.0638,
+      "cdf": 0.734
+    },
+    {
+      "value": 6,
+      "probability": 0.0319,
+      "cdf": 0.766
+    },
+    {
+      "value": 7,
+      "probability": 0.0426,
+      "cdf": 0.8085
+    },
+    {
+      "value": 8,
+      "probability": 0.0426,
+      "cdf": 0.8511
+    },
+    {
+      "value": 9,
+      "probability": 0.0213,
+      "cdf": 0.8723
+    },
+    {
+      "value": 10,
+      "probability": 0.0106,
+      "cdf": 0.883
+    },
+    {
+      "value": 11,
+      "probability": 0.0106,
+      "cdf": 0.8936
+    },
+    {
+      "value": 12,
+      "probability": 0.0213,
+      "cdf": 0.9149
+    },
+    {
+      "value": 14,
+      "probability": 0.0106,
+      "cdf": 0.9255
+    },
+    {
+      "value": 16,
+      "probability": 0.0106,
+      "cdf": 0.9362
+    },
+    {
+      "value": 18,
+      "probability": 0.0106,
+      "cdf": 0.9468
+    },
+    {
+      "value": 21,
+      "probability": 0.0106,
+      "cdf": 0.9574
+    },
+    {
+      "value": 23,
+      "probability": 0.0106,
+      "cdf": 0.9681
+    },
+    {
+      "value": 46,
+      "probability": 0.0106,
+      "cdf": 0.9787
+    },
+    {
+      "value": 47,
+      "probability": 0.0213,
+      "cdf": 1
+    }
+  ],
+  "3-3": [
+    {
+      "value": -1100,
+      "probability": 0.0128,
+      "cdf": 0.0128
+    },
+    {
+      "value": -3,
+      "probability": 0.0128,
+      "cdf": 0.0256
+    },
+    {
+      "value": -2,
+      "probability": 0.0385,
+      "cdf": 0.0641
+    },
+    {
+      "value": -1,
+      "probability": 0.0256,
+      "cdf": 0.0897
+    },
+    {
+      "value": 0,
+      "probability": 0.1026,
+      "cdf": 0.1923
+    },
+    {
+      "value": 1,
+      "probability": 0.0897,
+      "cdf": 0.2821
+    },
+    {
+      "value": 2,
+      "probability": 0.1667,
+      "cdf": 0.4487
+    },
+    {
+      "value": 3,
+      "probability": 0.0385,
+      "cdf": 0.4872
+    },
+    {
+      "value": 4,
+      "probability": 0.0769,
+      "cdf": 0.5641
+    },
+    {
+      "value": 5,
+      "probability": 0.0641,
+      "cdf": 0.6282
+    },
+    {
+      "value": 6,
+      "probability": 0.0769,
+      "cdf": 0.7051
+    },
+    {
+      "value": 7,
+      "probability": 0.0641,
+      "cdf": 0.7692
+    },
+    {
+      "value": 8,
+      "probability": 0.0256,
+      "cdf": 0.7949
+    },
+    {
+      "value": 9,
+      "probability": 0.0385,
+      "cdf": 0.8333
+    },
+    {
+      "value": 10,
+      "probability": 0.0256,
+      "cdf": 0.859
+    },
+    {
+      "value": 11,
+      "probability": 0.0513,
+      "cdf": 0.9103
+    },
+    {
+      "value": 12,
+      "probability": 0.0128,
+      "cdf": 0.9231
+    },
+    {
+      "value": 14,
+      "probability": 0.0128,
+      "cdf": 0.9359
+    },
+    {
+      "value": 15,
+      "probability": 0.0128,
+      "cdf": 0.9487
+    },
+    {
+      "value": 25,
+      "probability": 0.0128,
+      "cdf": 0.9615
+    },
+    {
+      "value": 36,
+      "probability": 0.0128,
+      "cdf": 0.9744
+    },
+    {
+      "value": 37,
+      "probability": 0.0128,
+      "cdf": 0.9872
+    },
+    {
+      "value": 47,
+      "probability": 0.0128,
+      "cdf": 1
+    }
+  ],
+  "3-4": [
+    {
+      "value": -6,
+      "probability": 0.0294,
+      "cdf": 0.0294
+    },
+    {
+      "value": -3,
+      "probability": 0.0294,
+      "cdf": 0.0588
+    },
+    {
+      "value": -1,
+      "probability": 0.0588,
+      "cdf": 0.1176
+    },
+    {
+      "value": 0,
+      "probability": 0.0882,
+      "cdf": 0.2059
+    },
+    {
+      "value": 1,
+      "probability": 0.0588,
+      "cdf": 0.2647
+    },
+    {
+      "value": 2,
+      "probability": 0.0882,
+      "cdf": 0.3529
+    },
+    {
+      "value": 3,
+      "probability": 0.1471,
+      "cdf": 0.5
+    },
+    {
+      "value": 4,
+      "probability": 0.1176,
+      "cdf": 0.6176
+    },
+    {
+      "value": 5,
+      "probability": 0.1765,
+      "cdf": 0.7941
+    },
+    {
+      "value": 6,
+      "probability": 0.0882,
+      "cdf": 0.8824
+    },
+    {
+      "value": 8,
+      "probability": 0.0294,
+      "cdf": 0.9118
+    },
+    {
+      "value": 9,
+      "probability": 0.0294,
+      "cdf": 0.9412
+    },
+    {
+      "value": 16,
+      "probability": 0.0294,
+      "cdf": 0.9706
+    },
+    {
+      "value": 24,
+      "probability": 0.0294,
+      "cdf": 1
+    }
+  ],
+  "3-5": [
+    {
+      "value": -3,
+      "probability": 0.0667,
+      "cdf": 0.0667
+    },
+    {
+      "value": -1,
+      "probability": 0.1,
+      "cdf": 0.1667
+    },
+    {
+      "value": 0,
+      "probability": 0.1333,
+      "cdf": 0.3
+    },
+    {
+      "value": 1,
+      "probability": 0.1667,
+      "cdf": 0.4667
+    },
+    {
+      "value": 3,
+      "probability": 0.0667,
+      "cdf": 0.5333
+    },
+    {
+      "value": 4,
+      "probability": 0.1667,
+      "cdf": 0.7
+    },
+    {
+      "value": 6,
+      "probability": 0.0667,
+      "cdf": 0.7667
+    },
+    {
+      "value": 7,
+      "probability": 0.0667,
+      "cdf": 0.8333
+    },
+    {
+      "value": 9,
+      "probability": 0.0333,
+      "cdf": 0.8667
+    },
+    {
+      "value": 10,
+      "probability": 0.0333,
+      "cdf": 0.9
+    },
+    {
+      "value": 15,
+      "probability": 0.0333,
+      "cdf": 0.9333
+    },
+    {
+      "value": 17,
+      "probability": 0.0333,
+      "cdf": 0.9667
+    },
+    {
+      "value": 22,
+      "probability": 0.0333,
+      "cdf": 1
+    }
+  ],
+  "3-6": [
+    {
+      "value": 0,
+      "probability": 0.129,
+      "cdf": 0.129
+    },
+    {
+      "value": 1,
+      "probability": 0.0323,
+      "cdf": 0.1613
+    },
+    {
+      "value": 2,
+      "probability": 0.0968,
+      "cdf": 0.2581
+    },
+    {
+      "value": 3,
+      "probability": 0.1935,
+      "cdf": 0.4516
+    },
+    {
+      "value": 4,
+      "probability": 0.0323,
+      "cdf": 0.4839
+    },
+    {
+      "value": 5,
+      "probability": 0.1935,
+      "cdf": 0.6774
+    },
+    {
+      "value": 6,
+      "probability": 0.0323,
+      "cdf": 0.7097
+    },
+    {
+      "value": 7,
+      "probability": 0.129,
+      "cdf": 0.8387
+    },
+    {
+      "value": 8,
+      "probability": 0.0323,
+      "cdf": 0.871
+    },
+    {
+      "value": 9,
+      "probability": 0.0645,
+      "cdf": 0.9355
+    },
+    {
+      "value": 23,
+      "probability": 0.0323,
+      "cdf": 0.9677
+    },
+    {
+      "value": 28,
+      "probability": 0.0323,
+      "cdf": 1
+    }
+  ],
+  "3-7": [
+    {
+      "value": -12,
+      "probability": 0.0417,
+      "cdf": 0.0417
+    },
+    {
+      "value": -3,
+      "probability": 0.0833,
+      "cdf": 0.125
+    },
+    {
+      "value": 0,
+      "probability": 0.1667,
+      "cdf": 0.2917
+    },
+    {
+      "value": 2,
+      "probability": 0.0833,
+      "cdf": 0.375
+    },
+    {
+      "value": 3,
+      "probability": 0.2083,
+      "cdf": 0.5833
+    },
+    {
+      "value": 5,
+      "probability": 0.0833,
+      "cdf": 0.6667
+    },
+    {
+      "value": 6,
+      "probability": 0.125,
+      "cdf": 0.7917
+    },
+    {
+      "value": 8,
+      "probability": 0.0417,
+      "cdf": 0.8333
+    },
+    {
+      "value": 9,
+      "probability": 0.125,
+      "cdf": 0.9583
+    },
+    {
+      "value": 16,
+      "probability": 0.0417,
+      "cdf": 1
+    }
+  ],
+  "3-10": [
+    {
+      "value": -4,
+      "probability": 0.0476,
+      "cdf": 0.0476
+    },
+    {
+      "value": -3,
+      "probability": 0.0476,
+      "cdf": 0.0952
+    },
+    {
+      "value": -2,
+      "probability": 0.0476,
+      "cdf": 0.1429
+    },
+    {
+      "value": -1,
+      "probability": 0.0476,
+      "cdf": 0.1905
+    },
+    {
+      "value": 1,
+      "probability": 0.0952,
+      "cdf": 0.2857
+    },
+    {
+      "value": 4,
+      "probability": 0.2381,
+      "cdf": 0.5238
+    },
+    {
+      "value": 5,
+      "probability": 0.1905,
+      "cdf": 0.7143
+    },
+    {
+      "value": 6,
+      "probability": 0.0952,
+      "cdf": 0.8095
+    },
+    {
+      "value": 15,
+      "probability": 0.0476,
+      "cdf": 0.8571
+    },
+    {
+      "value": 17,
+      "probability": 0.0952,
+      "cdf": 0.9524
+    },
+    {
+      "value": 30,
+      "probability": 0.0476,
+      "cdf": 1
+    }
+  ],
+  "4-1": [
+    {
+      "value": -1100,
+      "probability": 0.0087,
+      "cdf": 0.0087
+    },
+    {
+      "value": -3,
+      "probability": 0.0087,
+      "cdf": 0.0174
+    },
+    {
+      "value": -2,
+      "probability": 0.0174,
+      "cdf": 0.0348
+    },
+    {
+      "value": -1,
+      "probability": 0.0174,
+      "cdf": 0.0522
+    },
+    {
+      "value": 0,
+      "probability": 0.1913,
+      "cdf": 0.2435
+    },
+    {
+      "value": 1,
+      "probability": 0.0696,
+      "cdf": 0.313
+    },
+    {
+      "value": 2,
+      "probability": 0.3217,
+      "cdf": 0.6348
+    },
+    {
+      "value": 3,
+      "probability": 0.1217,
+      "cdf": 0.7565
+    },
+    {
+      "value": 4,
+      "probability": 0.0348,
+      "cdf": 0.7913
+    },
+    {
+      "value": 5,
+      "probability": 0.0696,
+      "cdf": 0.8609
+    },
+    {
+      "value": 6,
+      "probability": 0.0174,
+      "cdf": 0.8783
+    },
+    {
+      "value": 7,
+      "probability": 0.0348,
+      "cdf": 0.913
+    },
+    {
+      "value": 8,
+      "probability": 0.0174,
+      "cdf": 0.9304
+    },
+    {
+      "value": 9,
+      "probability": 0.0087,
+      "cdf": 0.9391
+    },
+    {
+      "value": 10,
+      "probability": 0.0087,
+      "cdf": 0.9478
+    },
+    {
+      "value": 11,
+      "probability": 0.0087,
+      "cdf": 0.9565
+    },
+    {
+      "value": 18,
+      "probability": 0.0087,
+      "cdf": 0.9652
+    },
+    {
+      "value": 23,
+      "probability": 0.0087,
+      "cdf": 0.9739
+    },
+    {
+      "value": 31,
+      "probability": 0.0087,
+      "cdf": 0.9826
+    },
+    {
+      "value": 43,
+      "probability": 0.0087,
+      "cdf": 0.9913
+    },
+    {
+      "value": 45,
+      "probability": 0.0087,
+      "cdf": 1
+    }
+  ]
+}
