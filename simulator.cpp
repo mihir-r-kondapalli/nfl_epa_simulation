@@ -435,9 +435,9 @@ int main(int argc, char* argv[]) {
 
     loadPriorData(prior_data+"/max_eps.csv", prior_epas);
 
-    KO_VAL = 0; // prior_epas[30-1];  // 0 to mimic nflfastr ep calculations
-    SKO_VAL = prior_epas[30-1];
-    TB_VAL = prior_epas[20-1];
+    KO_VAL = prior_epas[70-1];  // 0 when mimicing nflfastr ep calculations
+    SKO_VAL = prior_epas[70-1];
+    TB_VAL = prior_epas[80-1];
 
     cout << "Yardline Mapping Generated!" << endl;
 
