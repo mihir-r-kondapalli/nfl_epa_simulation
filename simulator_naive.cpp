@@ -221,12 +221,12 @@ double get_epa_val(int val, int down, int yards_to_go, int yardline) {
 
     if (new_yards_to_go <= 0) {
         new_down = 1;
-        new_yards_to_go = (10 <= yardline) ? 10 : yardline;
+        new_yards_to_go = (10 <= new_yardline) ? 10 : new_yardline;
     } else if (new_yards_to_go > 0 && new_down > 4) {
         return 0;
     }
 
-    string new_down_and_distance = to_string(new_down) + "-" + to_string(yards_to_go);
+    string new_down_and_distance = to_string(new_down) + "-" + to_string(new_yards_to_go);
     return max_epas[make_pair(new_down_and_distance, new_yardline)];
 }
 
@@ -298,13 +298,15 @@ int main(int argc, char* argv[]) {
 
     cout << "Yardline Mapping Generated!" << endl;
 
+    string target_data = "naive_kick_epas";
+
     auto start = chrono::high_resolution_clock::now();
     run_simulation(sample_datas, mt1, yardline_mapping);
-    saveDataToCSV("naive_kick_epas/run_epas.csv", run_epas);
-    saveDataToCSV("naive_kick_epas/pass_epas.csv", pass_epas);
-    saveDataToCSV("naive_kick_epas/kick_epas.csv", kick_epas);
-    saveDataToCSV("naive_kick_epas/max_epas.csv", max_epas);
-    saveDataToCSV_opt("naive_kick_epas/opt_choices.csv", opt_choices);
+    saveDataToCSV(target_data+"/run_epas.csv", run_epas);
+    saveDataToCSV(target_data+"/pass_epas.csv", pass_epas);
+    saveDataToCSV(target_data+"/kick_epas.csv", kick_epas);
+    saveDataToCSV(target_data+"/max_epas.csv", max_epas);
+    saveDataToCSV_opt(target_data+"/opt_choices.csv", opt_choices);
 
     auto end = chrono::high_resolution_clock::now();
     cout << "Execution time: " << chrono::duration<double>(end - start).count() << " seconds" << endl;

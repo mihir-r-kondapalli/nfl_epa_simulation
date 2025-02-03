@@ -6,6 +6,7 @@
 #include <chrono>
 #include <sstream>
 #include "json.hpp"
+#include <cstdlib>
 
 using json = nlohmann::json;
 using namespace std;
@@ -282,7 +283,7 @@ double get_epa_val(int val, int down, int yards_to_go, int yardline) {
     if (val < -2000) {
         int new_yl = 100-(yardline-(val+2100));
         if(new_yl <= 0){
-            return -TD_VAL + KO_VAL;
+            return -TD_VAL;
         }
         return -prior_epas[new_yl-1];
     }
@@ -290,14 +291,14 @@ double get_epa_val(int val, int down, int yards_to_go, int yardline) {
     if (val < -1000) {
         int new_yl = 100-(yardline-(val+1100));
         if(new_yl <= 0){
-            return -TD_VAL + KO_VAL;
+            return -TD_VAL;
         }
         return -prior_epas[new_yl-1];
     }
 
     int new_yardline = yardline - val;
     if (new_yardline <= 0) {
-        return TD_VAL; // - KO_VAL; // Touchdown + Expected Extra Point - EP after kickoff
+        return TD_VAL - KO_VAL; // Touchdown + Expected Extra Point - EP after kickoff
     }
 
     if (new_yardline >= 100) {
@@ -309,12 +310,12 @@ double get_epa_val(int val, int down, int yards_to_go, int yardline) {
 
     if (new_yards_to_go <= 0) {
         new_down = 1;
-        new_yards_to_go = (10 <= yardline) ? 10 : yardline;
+        new_yards_to_go = (10 <= new_yardline) ? 10 : new_yardline;
     } else if (new_yards_to_go > 0 && new_down > 4) {
         return -prior_epas[(100-new_yardline)-1];
     }
 
-    string new_down_and_distance = to_string(new_down) + "-" + to_string(yards_to_go);
+    string new_down_and_distance = to_string(new_down) + "-" + to_string(new_yards_to_go);
     return max_epas[make_pair(new_down_and_distance, new_yardline)];
 }
 
@@ -331,7 +332,7 @@ double get_epa_punt_val(int yardline, mt19937& rng){
     }
     int val = punt_data[yardline-1][rng() % punt_data.size()];
     if(val < -1000){
-        return -TD_VAL + KO_VAL;
+        return -TD_VAL;
     }
     if(val > 1000){
         int new_yardline = yardline-(val-1000);  // recovered muffed punt
@@ -383,6 +384,11 @@ void run_simulation(vector<unordered_map<string, vector<int>>>& sample_datas, mt
                 epa_pass_val /= n;
                 epa_punt_val /= n;
 
+                if (epa_rush_val > 1e10 || epa_pass_val > 1e10) {
+                    cerr << "Large EPAs: " << epa_rush_val << ", " << epa_pass_val << endl;
+                    exit(1);
+                }
+
                 pair<string, int> ddy = make_pair(down_and_distance, yardline);
 
                 run_epas[ddy] = epa_rush_val;
@@ -417,7 +423,11 @@ int main(int argc, char* argv[]) {
     vector<int> yardline_mapping;
     generateYardlineMapping(yardline_mapping);
     loadPuntNetYards(punt_data, "punt_net_yards.json");
-    loadPriorData("seconds_round_epas/max_epas.csv", prior_epas);
+
+    string prior_data = "second_round_epas";
+    string target_data = "third_round_epas";
+
+    loadPriorData(prior_data+"/max_epas.csv", prior_epas);
 
     KO_VAL = prior_epas[30-1];
     TB_VAL = prior_epas[20-1];
@@ -426,12 +436,12 @@ int main(int argc, char* argv[]) {
 
     auto start = chrono::high_resolution_clock::now();
     run_simulation(sample_datas, mt1, yardline_mapping);
-    saveDataToCSV("third_round_epas/run_epas.csv", run_epas);
-    saveDataToCSV("third_round_epas/pass_epas.csv", pass_epas);
-    saveDataToCSV("third_round_epas/kick_epas.csv", kick_epas);
-    saveDataToCSV("third_round_epas/punt_epas.csv", punt_epas);
-    saveDataToCSV("third_round_epas/max_epas.csv", max_epas);
-    saveDataToCSV_opt("third_round_epas/opt_choices.csv", opt_choices);
+    saveDataToCSV(target_data+"/run_epas.csv", run_epas);
+    saveDataToCSV(target_data+"/pass_epas.csv", pass_epas);
+    saveDataToCSV(target_data+"/kick_epas.csv", kick_epas);
+    saveDataToCSV(target_data+"/punt_epas.csv", punt_epas);
+    saveDataToCSV(target_data+"/max_epas.csv", max_epas);
+    saveDataToCSV_opt(target_data+"/opt_choices.csv", opt_choices);
 
     auto end = chrono::high_resolution_clock::now();
     cout << "Execution time: " << chrono::duration<double>(end - start).count() << " seconds" << endl;
